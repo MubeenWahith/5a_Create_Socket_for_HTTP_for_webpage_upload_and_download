@@ -111,11 +111,13 @@ webpage.html
 ```
 webpage.txt
 
-<img width="709" height="128" alt="image" src="https://github.com/user-attachments/assets/43bb558c-837a-4b9a-9611-a9b70d70ec37" />
+<img width="1033" height="630" alt="image" src="https://github.com/user-attachments/assets/68bbaff5-4657-4aca-a1b7-e6cb62639a9f" />
+
 
 ## OUTPUT
 
 
+<img width="858" height="143" alt="image" src="https://github.com/user-attachments/assets/1f1ff2d8-6209-48c1-a4bd-315090419b48" />
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
