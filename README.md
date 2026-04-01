@@ -93,7 +93,7 @@ webpage.html
         </center>
         <br>
         <table align="center" width="750" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-            <caption><b>SLOT TIME TABLE - SUJIN M L (25014892)</b></caption>
+            <caption><b>SLOT TIME TABLE - MOHAMED MUBEEN A (212225040241)</b></caption>
             <tr align="center">
                 <th bgcolor="yellow">Day/Time</th>
                 <th bgcolor="yellow">MONDAY</th>
